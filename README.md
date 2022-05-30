@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navamshuram
+- 👋 Hi, I’m @navamshurampv
 - 🌱 I’m currently learning Node.js, MongoDB
 - 🔥 Looking to collaborate on end-end projects
 - 📫 How to reach me @navamshuram2002@gmail.com
