@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @navamshuram
-- 🔭 I’m currently working on Html, Css, JavaScript, Python
-- 🌱 I’m currently learning React, Node.js, MongoDB
+- 🌱 I’m currently learning Node.js, MongoDB
 - 💞️ I’m looking to collaborate on end-end projects
 - 📫 How to reach me @navamshuram2002@gmail.com
 
